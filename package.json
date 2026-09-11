@@ -1,0 +1,25 @@
+{
+  "name": "chike_jarret_portfolio",
+  "version": "1.0.0",
+  "main": "function.js",
+  "scripts": {
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ONEBALDDEVELOPER/Chike_Jarret_Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ONEBALDDEVELOPER/Chike_Jarret_Portfolio/issues"
+  },
+  "homepage": "https://github.com/ONEBALDDEVELOPER/Chike_Jarret_Portfolio#readme",
+  "description": "",
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "sass": "^1.90.0"
+  }
+}
